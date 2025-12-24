@@ -4,7 +4,7 @@
 ![netbird connection watcher demo GIF](./images/netbird-connection-watcher-demo.gif)
 
 ## Prerequisites
-- OpenWRT device with a network connection with the host machine
+- OpenWRT device with a network connection with the host machine and a running netbird client
 - `build-essential` and `make` - standard development tools
 - `mipsel-linux-musl-gcc` - cross-compiler toolchain
     - if not available from the package repository, obtain the source directly, build it locally and add it to PATH:
